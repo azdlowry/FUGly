@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace FUGly
 
 /// Documentation for my library
 ///

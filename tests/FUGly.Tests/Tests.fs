@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module FUGly.Tests
 
-open FSharp.ProjectTemplate
+open FUGly
 open NUnit.Framework
 
 [<Test>]

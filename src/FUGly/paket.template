@@ -1,0 +1,25 @@
+type project
+title
+    FUGly
+owners
+    Andy Lowry
+authors 
+    Andy Lowry
+projectUrl
+    https://github.com/[github-user]/FUGly
+iconUrl
+    https://raw.githubusercontent.com/[github-user]/FUGly/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/[github-user]/FUGly/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    A test for FUG
+description
+    Some playing around with f# for fug
+
+
